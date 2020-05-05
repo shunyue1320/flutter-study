@@ -1,16 +1,14 @@
-# flutter_app
+# flutter学习笔录
 
-A new Flutter project.
+里面有许许多多的flutter小练习
 
-## Getting Started
+## 学习练习都在lib目录下
+**/lib/01_BottomNavBar/AppbarTop.dart**
 
-This project is a starting point for a Flutter application.
+![](https://img-blog.csdnimg.cn/2020040522091255.gif)
 
-A few resources to get you started if this is your first Flutter project:
+<hr />
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+**/lib/pages/TmallPage.dart**
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![](https://img-blog.csdnimg.cn/20200505151910769.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQxNjE0OTI4,size_16,color_FFFFFF,t_70)
